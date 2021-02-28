@@ -10,3 +10,4 @@ sigma_dmb
 from cov matrix =
 6.395496670110561e-41
 2-sigma =
+9.947804370807454e-41
