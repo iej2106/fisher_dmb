@@ -1,6 +1,6 @@
 # Fisher analysis for constraining dark matter+baryon interaction in early universe. 
 
-<b>compute_fisher_dmb</b> computes the fisher matrix for a given experiment with required input of dark matter (DM) mass and velocity dependence, which uses simulated cosmological observables from CLASS.
+<b>compute_fisher_dmb</b> computes the fisher matrix for a given experiment with required input of dark matter (DM) mass, velocity dependence, and relagtive bulk velocity which uses simulated cosmological observables from CLASS.
 
 ## Formulism
  
