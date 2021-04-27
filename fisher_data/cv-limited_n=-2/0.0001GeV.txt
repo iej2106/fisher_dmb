@@ -12,3 +12,4 @@ from cov matrix =
 2-sigma =
 3.58286610058915e-35
 2-sigma zack's method =
+2.247513707543938e-35
