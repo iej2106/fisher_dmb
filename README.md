@@ -41,7 +41,7 @@ https://github.com/xzackli/fishchips-public
 
 ## References
 
-[Boddy & Gluscevic 2018](arXiv:1801.08609)
+[Boddy & Gluscevic 2018](https://arxiv.org/abs/1801.08609.pdf)
 
 [Boddy & Gluscevic 2018](arXiv:1808.00001)
 
