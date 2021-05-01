@@ -11,6 +11,11 @@ The fiducal values for the LCDM paramters are also easily changed, as well as wh
 Each setting above requres adjustment of the step size used in numerically differenting the C_ls in the fisher matrix (see details in notebooks).
 
 To numerically differentiation the Cl's with respect to the parameters you want to contrain its important to choose the right stepsize. One that is small enough to converge but also large enough not to hit numerical noise. See 'convergence_check.ipynb'
+## Requirements:
+Boltzman code: I used modified version of CLASS with DM baryon interaction: https://github.com/veragluscevic/class_public/tree/dmb
+Python 3 (numpy, scipy, matplotlib).
+
+
 
 ## Formalism
  
