@@ -39,4 +39,27 @@ https://github.com/xzackli/fishchips-public
 <b>Planck</b>
 https://github.com/xzackli/fishchips-public
 
-[Back To The Top](Fisher analysis for constraining dark matter+baryon interaction in early universe.)
+## References
+
+[Boddy & Gluscevic 2018](arXiv:1801.08609)
+
+[Boddy & Gluscevic 2018](arXiv:1808.00001)
+
+[Coe 2009](arXiv:0906.4123)
+
+[Gluscevic & Boddy 2017] (arXiv:1712.07133)
+
+[Z. Li et al. 2018](https://arxiv.org/pdf/1806.10165.pdf)
+
+Z. Li (https://github.com/xzackli/fishchips-public)
+
+[Wu et al. 2014](https://arxiv.org/abs/1402.4108)
+
+[CMB-S4 Collaboration(2016)] (arXiv:1610.02743)
+
+[Planck Collaboration et al.(2016)]
+
+[Lewis & Challinor 2006](physrep, 429, 1.)
+
+[Simons Observatory(2018)(https://simonsobservatory.org/)
+
