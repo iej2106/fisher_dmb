@@ -41,10 +41,10 @@ https://github.com/xzackli/fishchips-public
 
 ## References
 
-[Boddy & Gluscevic 2018] First Cosmological Constraint on the Effective Theory of Dark Matter-Proton Interactions(https://arxiv.org/abs/1801.08609.pdf)
+[Boddy & Gluscevic 2018](https://arxiv.org/abs/1801.08609.pdf) First Cosmological Constraint on the Effective Theory of Dark Matter-Proton Interactions
 
-[Boddy & Gluscevic 2018] A Critical Assessment of CMB Limits on Dark Matter–Baryon Scattering:
-New Treatment of the Relative Bulk Velocity(https://arxiv.org/pdf/1808.00001.pdf)
+[Boddy & Gluscevic 2018](https://arxiv.org/pdf/1808.00001.pdf) A Critical Assessment of CMB Limits on Dark Matter–Baryon Scattering:
+New Treatment of the Relative Bulk Velocity
 
 [Coe 2009](arXiv:0906.4123)
 
