@@ -46,21 +46,22 @@ https://github.com/xzackli/fishchips-public
 [Boddy & Gluscevic 2018](https://arxiv.org/pdf/1808.00001.pdf) A Critical Assessment of CMB Limits on Dark Matter–Baryon Scattering:
 New Treatment of the Relative Bulk Velocity
 
-[Coe 2009](arXiv:0906.4123)
+[Coe 2009](https://arxiv.org/pdf/0906.4123.pdf) Fisher Matrices and Confidence Ellipses: A Quick-Start Guide and Software
 
-[Gluscevic & Boddy 2017] (arXiv:1712.07133)
+[Gluscevic & Boddy 2017](https://arxiv.org/pdf/1712.07133.pdf) Constraints on Scattering of keV–TeV Dark Matter with Protons in the Early
+Universe
 
-[Z. Li et al. 2018](https://arxiv.org/pdf/1806.10165.pdf)
+[Z. Li et al. 2018](https://arxiv.org/pdf/1806.10165.pdf) DISENTANGLING DARK PHYSICS WITH COSMIC MICROWAVE BACKGROUND EXPERIMENTS
 
-Z. Li (https://github.com/xzackli/fishchips-public)
+[Z. Li](https://github.com/xzackli/fishchips-public)
 
-[Wu et al. 2014](https://arxiv.org/abs/1402.4108)
+[Wu et al. 2014](https://arxiv.org/pdf/1402.4108.pdf) A Guide to Designing Future Ground-based CMB Experiments
 
-[CMB-S4 Collaboration(2016)] (arXiv:1610.02743)
+[CMB-S4 Collaboration(2016)](https://arxiv.org/pdf/1610.02743.pdf) CMB-S4 Science Book, First Edition
 
-[Planck Collaboration et al.(2016)]
+[Planck Collaboration et al.(2016)](https://arxiv.org/pdf/1502.01589.pdf) Planck 2015 results. XIII. Cosmological parameters
 
-[Lewis & Challinor 2006](physrep, 429, 1.)
+[Lewis & Challinor 2006](https://arxiv.org/pdf/astro-ph/0601594.pdf) Weak Gravitational Lensing of the CMB
 
 [Simons Observatory(2018)(https://simonsobservatory.org/)
 
