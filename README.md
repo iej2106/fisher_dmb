@@ -12,7 +12,7 @@ Each setting above requres adjustment of the step size used in numerically diffe
 
 To numerically differentiation the Cl's with respect to the parameters you want to contrain its important to choose the right stepsize. One that is small enough to converge but also large enough not to hit numerical noise. See 'convergence_check.ipynb'
 
-## Formulism
+## Formalism
  
 
 [Wu et al. 2014](https://arxiv.org/abs/1402.4108)
@@ -23,9 +23,13 @@ Each experiment has their own sets of noise curves:
 ##Sources: 
 
 <b>Simons observatory</b>
+Lensing noise: https://github.com/simonsobs/so_noise_models/tree/master/LAT_comp_sep_noise/v3.1.0
+Temperature and Polarization: https://github.com/simonsobs/so_noise_models
 
 <b>CMB STAGE-4</b>
+https://github.com/xzackli/fishchips-public
 
 <b>Cosmic variance limited</b>
 
 <b>Planck</b>
+https://github.com/xzackli/fishchips-public
