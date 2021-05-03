@@ -1,4 +1,4 @@
-<img src="fisher_plots/upperlimit_crosssection_all.png " width="1000" height="600">
+<img src="fisher_plots/upperlimit_crosssection_all.png " width="300" height="600">
 
 # Fisher analysis for constraining dark matter+baryon interaction in early universe. 
 
