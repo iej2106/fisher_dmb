@@ -12,3 +12,4 @@ from cov matrix =
 relative_bulk_velocity =
 30.0
 2-sigma zack's method =
+2.799685572080807e-42
