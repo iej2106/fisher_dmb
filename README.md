@@ -1,5 +1,3 @@
-<img src="fisher_plots/upperlimit_crosssection_all.png " width="600" height="900">
-
 # Fisher analysis for constraining dark matter+baryon interaction in early universe. 
 
 The purpose for this repo is to constrain cosmolocial parameters the CMB simulated in the Boltzman code CLASS. In particular I have been constraining the 6 LCDM parameters in addition the the early-universe dark matter-baryon scattering cross section using a modified version of CLASS. With the intention to forcast sensitivities of future CMB experiment by plotting upper limits for cross sections in mass ranging between 10keV - 1TeV. See: upperlimit_crossection.ipynb
@@ -64,4 +62,7 @@ Universe
 [Lewis & Challinor 2006](https://arxiv.org/pdf/astro-ph/0601594.pdf) Weak Gravitational Lensing of the CMB
 
 [Simons Observatory(2018)(https://simonsobservatory.org/)
+
+## Upper limit on cross section for velocity independent & dependent cases
+<img src="fisher_plots/upperlimit_crosssection_all.png " width="600" height="900">
 
