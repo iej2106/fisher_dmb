@@ -64,5 +64,5 @@ Universe
 [Simons Observatory(2018)(https://simonsobservatory.org/)
 
 ## Upper limit on cross section for velocity independent & dependent cases
-<img src="fisher_plots/upperlimit_crosssection_all.png " width="400" height="900">
+<img src="fisher_plots/upperlimit_crosssection_all.png " width="600" height="1000">
 
