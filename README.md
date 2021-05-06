@@ -46,22 +46,23 @@ https://github.com/xzackli/fishchips-public
 [Boddy & Gluscevic 2018](https://arxiv.org/pdf/1808.00001.pdf) A Critical Assessment of CMB Limits on Dark Matter–Baryon Scattering:
 New Treatment of the Relative Bulk Velocity
 
+[CMB-S4 Collaboration(2016)](https://arxiv.org/pdf/1610.02743.pdf) CMB-S4 Science Book, First Edition
+
 [Coe 2009](https://arxiv.org/pdf/0906.4123.pdf) Fisher Matrices and Confidence Ellipses: A Quick-Start Guide and Software
 
 [Gluscevic & Boddy 2017](https://arxiv.org/pdf/1712.07133.pdf) Constraints on Scattering of keV–TeV Dark Matter with Protons in the Early
 Universe
 
-[Z. Li et al. 2018](https://arxiv.org/pdf/1806.10165.pdf) DISENTANGLING DARK PHYSICS WITH COSMIC MICROWAVE BACKGROUND EXPERIMENTS
-
-[Wu et al. 2014](https://arxiv.org/pdf/1402.4108.pdf) A Guide to Designing Future Ground-based CMB Experiments
-
-[CMB-S4 Collaboration(2016)](https://arxiv.org/pdf/1610.02743.pdf) CMB-S4 Science Book, First Edition
+[Lewis & Challinor 2006](https://arxiv.org/pdf/astro-ph/0601594.pdf) Weak Gravitational Lensing of the CMB
 
 [Planck Collaboration et al.(2016)](https://arxiv.org/pdf/1502.01589.pdf) Planck 2015 results. XIII. Cosmological parameters
 
-[Lewis & Challinor 2006](https://arxiv.org/pdf/astro-ph/0601594.pdf) Weak Gravitational Lensing of the CMB
-
 [Simons Observatory(2018)(https://simonsobservatory.org/)
+
+[Wu et al. 2014](https://arxiv.org/pdf/1402.4108.pdf) A Guide to Designing Future Ground-based CMB Experiments
+
+[Z. Li et al. 2018](https://arxiv.org/pdf/1806.10165.pdf) DISENTANGLING DARK PHYSICS WITH COSMIC MICROWAVE BACKGROUND EXPERIMENTS
+
 
 ## Upper limit on cross section for velocity independent & dependent cases
 <img src="fisher_plots/upperlimit_crosssection_all.png " width="600" height="900">
